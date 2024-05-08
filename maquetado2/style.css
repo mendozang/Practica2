@@ -1,0 +1,72 @@
+body {
+    width: 750px;
+}
+
+.encabezado {
+    background-color: crimson;
+    height: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    line-height: 200px;
+    margin: auto;
+}
+
+p {
+    background-color: whitesmoke;
+    text-align: center;
+    border-style: solid;
+    border-width: 2px;
+}
+
+#boxBanner {
+    width: 500px;
+    height: 220px;
+    border-color: blue;
+}
+
+#boxLogo {
+    width: 200px;
+    height: 220px;
+    border-color: blue;
+}
+
+header {
+    padding-bottom: 10px;
+}
+
+nav {
+    background-color: mediumvioletred;
+    height: 50px;
+}
+
+.principal {
+    background-color: orangered;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    line-height: 350px;
+}
+
+main {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#boxArticle {
+    width: 450px;
+    height: 360px;
+    border-color: brown;
+}
+
+#boxAside {
+    width: 240px;
+    height: 360px;
+    border-color:brown;
+}
+
+footer {
+    height: 50px;
+    background-color: gold;
+}
